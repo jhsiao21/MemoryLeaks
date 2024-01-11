@@ -1,3 +1,3 @@
 # Memory Leak
 
-This repository is used for practicing fix memory leaks related skills.
+These repositories are used to practice skills related to memory leaks.
